@@ -1,653 +1,449 @@
 
-h2
-{
-font-family: arial;font-size: 16px; 
-}
-#kontakty h2
-{
-font-family: arial;font-size: 16px;color: rgb(0,170,255); 
-}
-body
-{ 
-
-background-color: rgb(150,150,150);
-margin: 0px;
-
+h2 {
+	font-family: arial, sans-serif;
+	font-size: 16px;
 }
 
-
-#content 
-{ 
-height: 768px;
-width: 1024px;
-margin-left:auto;              
-margin-right:auto;
+#kontakty h2 {
+	test: test;
+	font-family: arial, sans-serif;
+	font-size: 16px;
+	color: rgb(0, 170, 255);
 }
-#nav
-{
 
-}
-#menu
-{ 
-background-color: rgb(45,45,45);
-width: 874px;
-height: 100px;
-padding-left: 150px;
-text-decoration:none;
-clear: both;
-list-style-type:none; 
-margin-top: -90px;    
-  }
+body {
 
-
-
- ul
-{  
-list-style-type:none;
-margin:0;
-padding-left:120px;
-overflow:hidden;
-padding-top: 45px;
-font-family: arial;
-font-weight: 100;
-}
-#menu ul a
-{
-  color: rgb(0,170,255);
-}
-a:link,a:visited
-{
-display:inline;
-
-color:#FFFFFF;
-text-align:center;
-padding:4px;
-text-decoration:none;
+	background-color: rgb(150, 150, 150);
+	margin: 0;
 
 }
-a:hover,a:active
-{
-color: rgb(0,170,255);
+
+#content {
+	height: 768px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nav {
+}
+
+#menu {
+	background-color: rgb(45, 45, 45);
+	width: 874px;
+	height: 100px;
+	padding-left: 150px;
+	text-decoration: none;
+	clear: both;
+	list-style-type: none;
+	margin-top: -90px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 120px;
+	overflow: hidden;
+	padding-top: 45px;
+	font-family: arial, sans-serif;
+	font-weight: 100;
+}
+
+#menu ul a {
+	color: rgb(0, 170, 255);
+}
+
+a:link, a:visited {
+	display: inline;
+
+	color: #FFFFFF;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+
+}
+
+a:hover, a:active {
+	color: rgb(0, 170, 255);
 }
 
 #menu ul {
-	margin:0;
-	padding:0;
-	
-	background-color: rgb(45,45,45);
-	text-align:center;
+	margin: 0;
+	padding: 0;
+
+	background-color: rgb(45, 45, 45);
+	text-align: center;
 	font-size: 18px;
-	
-	
-			
-  }
-        #menu ul li {
-		
-			
-                                                           
-                    bottom:auto;
-                    float:left;
-                    padding-left: 0px;
-                    
-					
-					
-  }
-        #menu ul li a {
-                    margin:0;
-                    padding:40px 20 40px 20;                               
-                    color:white;
-                    text-decoration:none;
-                    display:block;
-                   
-					
-  }
-
-	   #menu ul li a:hover {
-	        background-color: rgb(0,170,255);
-	  
-	  }
-	  
-
-.logo
-{
-margin-top: 15px;
-margin-left: 30px;
-z-index: 1000;
-}
-
-#uvodni_foto
-{
-margin-top: -1;
-z-index: 100;   
-}
-
-#uslovo
-{
-  padding-top: 30px;
-  padding-bottom: 30px;
-  font-size: 18px;
-  text-align:center;
-  font-family: arial;
-  width: 1024px;
-  background-color: rgb(240,240,240);
-  
-}
-.uvodnislovo
-{
-padding-top: 0px;
-padding-left: 87px;
-color: black;
-font-family: arial ;        
-font-family: "Arial Narrow", "Arial Narrow", "Arial", sans-serif;
-width: 850px;
-font-weight: 50;
- font-stretch: condensed;
-}
-
-#o_spolecnosti_content
-{
-   margin-top: -50px;
-width: 1024px;
-margin-left:auto;              
-margin-right:auto;
-background-color: white;
-z-index: 200;
-
-}
-.o_spolecnosti_text
-{  padding-left:300px;
-   width: 660px;
-font-family: "Arial Narrow", "Arial Narrow", "Arial", sans-serif;
-font-stretch: condensed;
-font-weight: 50;
-    
-
-}
-.o_spolecnosti_text1
-{  padding-left:300px;
-   width: 660px;
-  font-family: "Arial Narrow", "Arial Narrow", "Arial", sans-serif;
-font-stretch: condensed;
-font-weight: 50;
-
-  }
-  
-  #team_content
-  {
-   margin-top: -50px;
-width: 1024px;
-margin-left:auto;              
-margin-right:auto;
-background-color: white;
-z-index: 200;
-  
-  }
-  
 
-  
-
-.o_spolecnosti_nadpis
-{       font-family: arial;
-    width: 600px;
-    margin-top: -60;
-padding-left: 300px;
 }
 
-.team_nadpis
-{       font-family: arial;
-    width: 600px;
-    margin-top: -60;
-padding-left: 300px;
-}
+#menu ul li {
 
-#kontakt_content
-{
-height: 90px;
-width: 1024px;
-margin-left:auto;              
-margin-right:auto;
-background-color: white;
-}
+	bottom: auto;
+	float: left;
+	padding-left: 0;
 
-.kontakt_mapa
-{ padding-top: px;
-  width: 1024px;
 }
 
-.kontakt_udaje
-{ font-family: arial;
-  width: 250px;
-
-}
-.tosovsky
-{ font-family: arial;
-  width: 250px;
-  padding-left: 200px;
-  margin-bottom: 50px;
+#menu ul li a {
+	margin: 0;
+	padding: 40px 20px 40px 20px;
+	color: white;
+	text-decoration: none;
+	display: block;
 
 }
-.firma_adresa
-{ font-size: 14px;
-  width: 250px;
-  
-}
 
+#menu ul li a:hover {
+	background-color: rgb(0, 170, 255);
 
-.firma_kontakt
-{ font-size: 14px;
-  width: 300px;
-  padding-left: 300px;
-  margin-top: -65px;
-  z-index: 400;
 }
-
-#home_content
-{
 
- height: 970px;
-width: 1024px;
-margin-left:auto;              
-margin-right:auto;
-background-color: white;
+.logo {
+	margin-top: 15px;
+	margin-left: 30px;
+	z-index: 1000;
+}
 
- 
+#uslovo {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 18px;
+	text-align: center;
+	font-family: arial, sans-serif;
+	width: 1024px;
+	background-color: rgb(240, 240, 240);
 
 }
 
-#kontakt_content
-{
- height: 900px;
-width: 1024px;
-margin-left:auto;              
-margin-right:auto;
-background-color: white;
+.uvodnislovo {
+	padding-top: 0;
+	padding-left: 87px;
+	color: black;
+	font-family: "Arial Narrow", "Arial Narrow", "Arial", sans-serif;
+	width: 850px;
+	font-stretch: condensed;
 }
 
-#sluzby_content
-{
-
- height: 1120px;
-width: 1024px;
-margin-left:auto;              
-margin-right:auto;
-background-color: white;
-font-family: arial;
+.uvodnislovo p {
+	margin: 0;
+}
 
- 
+#o_spolecnosti_content {
+	margin-top: -50px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	z-index: 200;
+}
 
+.o_spolecnosti_text {
+	padding-left: 300px;
+	width: 660px;
+	font-family: "Arial Narrow", "Arial Narrow", "Arial", sans-serif;
+	font-stretch: condensed;
 }
-#klienti_content
-{
 
- height: 1000px;
-width: 1024px;
-margin-left:auto;              
-margin-right:auto;
-background-color: white;
-font-family: arial;
+.o_spolecnosti_text1 {
+	padding-left: 300px;
+	width: 660px;
+	font-family: "Arial Narrow", "Arial Narrow", "Arial", sans-serif;
+	font-stretch: condensed;
+}
 
- 
+#team_content {
+	margin-top: -50px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	z-index: 200;
 
 }
 
-#img{
-
+.o_spolecnosti_nadpis {
+	font-family: arial, sans-serif;
+	width: 600px;
+	margin-top: -60px;
+	padding-left: 300px;
+}
 
+.team_nadpis {
+	font-family: arial, sans-serif;
+	width: 600px;
+	margin-top: -60px;
+	padding-left: 300px;
 }
 
-#dan
-{   
-   width: 260px;
-   padding-left: 80px;
-   padding-top: 0px;
-   position: absolute;
+#kontakt_content {
+	height: 90px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
 }
 
-.enerico
-{
-      position: absolute;
-       padding-left: 21px;
+.kontakt_mapa {
+	padding-top: 0;
+	width: 1024px;
 }
+
+.kontakt_udaje {
+	font-family: arial, sans-serif;
+	width: 250px;
 
-#leg
-{
-   width: 260px;
-   padding-left: 395px;
-   padding-top: 0px;
-   position: absolute;
 }
 
-.legico
-{
-      position: absolute;
-       padding-left: 36px;
+.tosovsky {
+	font-family: arial, sans-serif;
+	width: 250px;
+	padding-left: 200px;
+	margin-bottom: 50px;
+
 }
+
+.firma_adresa {
+	font-size: 14px;
+	width: 250px;
 
-#ing
-{
-   width: 240px;
-   padding-left: 715px;
-   padding-top: 0px;
-   position: absolute;
 }
 
-.ingico
-{     padding-left: 50px;
-      position: absolute;
-      
+.firma_kontakt {
+	font-size: 14px;
+	width: 300px;
+	padding-left: 300px;
+	margin-top: -65px;
+	z-index: 400;
 }
 
+#home_content {
 
+	height: 970px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
 
-.ingo
-{
-      position: absolute;
-      margin-right: 70px;
-      padding-top: 140px;
-      text-align: center; 
-      width: 260px;
 }
 
-.lego
-{    
-      position: absolute;
-      padding-left: -70;
-      padding-top: 140px; 
-     
-      width: 260px;
+#kontakt_content {
+	height: 900px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
 }
-.organ
-{
-      position: absolute;
-      padding-left: 10px;
-      padding-top: 90px; 
-}
-.dano
-{
-      position: absolute;
-       width: 260px;
-      padding-top: 140px; 
-}
+
+#img {
 
-#tos
-{  font-size: 14px; 
-   width: 260px;
-   padding-left: 530px;
-   padding-top: 35px;
-   position: absolute;
 }
-#fir
-{   
-   width: 260px;
-   padding-left: 40px;
-   padding-top: 20px;
-   position: absolute;
+
+.homepage-section-wrapper {
 }
-#fir1
-{   
-   width: 260px;
-   padding-left: 300px;
-   padding-top: 20px;
-   position: absolute;
+
+.homepage-section {
+	width: 256px;
+	text-align: center;
+	float: left;
 }
 
-.enerico
-{
-      position: absolute;
-       padding-left: 21px;
+.homepage-section a:link,
+.homepage-section a:visited {
+	color: #000;
+	text-decoration: none;
 }
 
-#hur
-{  font-size: 14px;
-   width: 260px;
-   padding-left: 530px;
-   padding-top: 120px;
-   position: absolute;
+.enerico {
+	position: absolute;
+	padding-left: 21px;
 }
 
-.legico
-{
-      position: absolute;
-       padding-left: 36px;
+.legico {
+	position: absolute;
+	padding-left: 36px;
 }
 
-#hla
-{  font-size: 14px;
-   width: 240px;
-   padding-left: 730px;
-   padding-top: 35px;
-   position: absolute;
+.ingico {
+	padding-left: 50px;
+	position: absolute;
 }
 
-.ingico
-{     padding-left: 50px;
-      position: absolute;
-      
+.dotico {
+	padding-left: 50px;
+	position: absolute;
 }
 
+.ingo {
+	position: absolute;
+	margin-right: 70px;
+	padding-top: 140px;
+	text-align: center;
+	width: 260px;
+}
 
+.lego {
+	position: absolute;
+	padding-left: -70px;
+	padding-top: 140px;
 
-.hlav
-{
-      position: absolute;
-      
-      width: 260px;
+	width: 260px;
 }
 
-.hurn
-{    
-      position: absolute;
-      
-     
-      width: 260px;
+.organ {
+	position: absolute;
+	padding-left: 10px;
+	padding-top: 90px;
 }
-.organ
-{
-      position: absolute;
-      padding-left: 10px;
-      padding-top: 90px; 
-}
-.toso
-{
-      position: absolute;
-       width: 260px;
-       
+
+.dano {
+	position: absolute;
+	width: 260px;
+	padding-top: 140px;
 }
-  .firm
-{
-      position: absolute;
-       width: 260px;
-       font-size: 14px;
-       
+
+#tos {
+	font-size: 14px;
+	width: 260px;
+	padding-left: 530px;
+	padding-top: 35px;
+	position: absolute;
 }
-   .firm1
-{
-      position: absolute;
-       width: 260px;
-       font-size: 14px;
-       
+
+#fir {
+	width: 260px;
+	padding-left: 40px;
+	padding-top: 20px;
+	position: absolute;
 }
 
+#fir1 {
+	width: 260px;
+	padding-left: 300px;
+	padding-top: 20px;
+	position: absolute;
+}
 
-.email
-{
-  color: rgb(140,140,140);
-   font-family: arial;
-   font-size: 15px; 
-   margin-left: 412px;
-margin-top: 10px;
+.enerico {
+	position: absolute;
+	padding-left: 21px;
 }
----------------- paticky --------------------
 
-#patahome
-{
-  
+#hur {
+	font-size: 14px;
+	width: 260px;
+	padding-left: 530px;
+	padding-top: 120px;
+	position: absolute;
+}
 
+.legico {
+	position: absolute;
+	padding-left: 36px;
 }
-#patakontakt
-{
-padding-top: 255px;
-font: 10px Arial;
-float: right;
-height: 35px;
-color: rgb(180,180,180);
 
+#hla {
+	font-size: 14px;
+	width: 240px;
+	padding-left: 730px;
+	padding-top: 35px;
+	position: absolute;
 }
 
-#patasluzby
-{
-padding-top: 795px;
-font: 10px Arial;
-float: right;
-height: 35px;
-color: rgb(180,180,180);
-margin bottom: 10px;
+.ingico {
+	padding-left: 50px;
+	position: absolute;
 
 }
-#pataklienti
-{
-padding-top: 675px;
-font: 10px Arial;
-float: right;
-height: 35px;
-color: rgb(180,180,180);
-margin bottom: 10px;
 
-}
+.hlav {
+	position: absolute;
 
--------------------- sluzby ikonky -----------
-#ene
-{   
-   width: 944px;
-   padding-left: 40px;
-   padding-top: 0px;
-   position: absolute;
+	width: 260px;
 }
 
-.eneico
-{
-      position: absolute;
-       padding-left: 21px;
+.hurn {
+	position: absolute;
+
+	width: 260px;
 }
 
-.eneo
-{
-      position: absolute;
-       width: 784px;
-      padding-top: 10px;
-      padding-left: 200px;
-      font: arial; 
-      font-size: 14px;
+.organ {
+	position: absolute;
+	padding-left: 10px;
+	padding-top: 90px;
 }
 
-#pod
-{
-   width: 944px;
-   padding-left: 20px;
-   padding-top: 300px;
-   position: absolute;
+.toso {
+	position: absolute;
+	width: 260px;
 
 }
 
-.podico
-{
-      position: absolute;
-      
-}
-.podo
-{    
-      position: absolute;
-      padding-left: 180px;
-      padding-top: 10px; 
-       font-size: 14px;
-      width: 784px;
-}
+.firm {
+	position: absolute;
+	width: 260px;
+	font-size: 14px;
 
-#inz
-{
-   width: 944px;
-   padding-left: 0px;
-   padding-top: 540px;
-   position: absolute;
 }
 
-.inzico
-{     padding-left: 20px;
-      position: absolute;
-      
+.firm1 {
+	position: absolute;
+	width: 260px;
+	font-size: 14px;
+
 }
 
-.inzo
-{
-      position: absolute;
-      padding-top: 10px;
-      width: 784px;
-      font-size: 14px;
-      padding-left: 200px;
+.email {
+	color: rgb(140, 140, 140);
+	font-family: arial, sans-serif;
+	font-size: 15px;
+	margin-left: 412px;
+	margin-top: 10px;
 }
 
+/* paticky */
 
-.organ
-{
-      position: absolute;
-      padding-left: 10px;
-      padding-top: 90px; 
-}
--------------------------reference-----------------
-#loga
-{   
-   width: 940px;
-   padding-left: 40px;
-   padding-top: 0px;
-   position: absolute;
+.paticka {
+	float: right;
+	font-size: 10px;
+	font-family: arial, sans-serif;
+	color: rgb(180, 180, 180);
+	margin-bottom: 10px;
 }
-.gt
-{     padding-top: 300px;
-      position: absolute;
-       padding-left: 400px;
-}
-.cz
-{
-      position: absolute;
-       padding-left: 50px;
-       padding-top: 50px;
-}
-.danu
-{
-      position: absolute;
-       padding-left: 400px;
-       padding-top: 50px;
+
+#home_content .paticka {
+	padding-top: 40px;
 }
-.csze
-{
-      position: absolute;
-       padding-left: 700px;
-       padding-top: 30px;
+#home_content {
+	padding-bottom: 20px;
 }
 
-.cez
-{
-      position: absolute;
-       padding-left: 50px;
-       padding-top: 250px;
+#patakontakt {
+	padding-top: 255px;
+	font: 10px Arial;
+	float: right;
+	height: 35px;
+	color: rgb(180, 180, 180);
 }
 
-.mpo
-{
-      position: absolute;
-       padding-left: 50px;
-       padding-top: 480px;
+.organ {
+	position: absolute;
+	padding-left: 10px;
+	padding-top: 90px;
 }
 
-.nionex
-{
-      position: absolute;
-       padding-left: 370px;
-       padding-top: 480px;
-}
+/* reference */
+#ikonky {
 
+}
 
-#ikonky
-{
+.cf:before,
+.cf:after {
+	content: " ";
+	display: table;
+}
 
+.cf:after {
+	clear: both;
 }

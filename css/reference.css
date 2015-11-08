@@ -1,0 +1,37 @@
+/*
+ * Styly pro stránku Klienti
+ * =========================
+ */
+
+#klienti_content {
+	height: 1000px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	font-family: arial, sans-serif;
+}
+
+.loga {
+	padding-left: 20px;
+	padding-top: 0;
+}
+
+.loga .logo {
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+.loga .logo.half-more {
+	width: 450px;
+}
+
+.loga .logo img {
+	margin: 0 auto;
+	max-width: 300px;
+}
+
+
+#klienti_content .paticka {
+	padding-top: 35px;
+}
