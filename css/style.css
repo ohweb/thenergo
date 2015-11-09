@@ -5,7 +5,6 @@ h2 {
 }
 
 #kontakty h2 {
-	test: test;
 	font-family: arial, sans-serif;
 	font-size: 16px;
 	color: rgb(0, 170, 255);
@@ -360,6 +359,13 @@ a:hover, a:active {
 	position: absolute;
 
 	width: 260px;
+}
+#kut {
+	font-size: 14px;
+	width: 260px;
+	padding-left: 730px;
+	padding-top: 120px;
+	position: absolute;
 }
 
 .hurn {
